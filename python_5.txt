@@ -1,0 +1,8 @@
+import if
+
+a = 1
+b = 1
+if a == b:
+	print(a, "same", b)
+
+a, same, b

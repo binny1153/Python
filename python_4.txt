@@ -1,0 +1,6 @@
+import type
+
+a = "59512"
+print(type(a))
+
+class'int'

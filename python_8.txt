@@ -1,0 +1,11 @@
+import Range
+
+for a in(0,6):
+	print("*"*a)
+
+
+*
+**
+***
+****
+***** 

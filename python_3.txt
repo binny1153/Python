@@ -1,0 +1,6 @@
+import repeat
+
+for a in ["A", "B", "C"]:
+  print("a:", a)
+
+a: A,B,C

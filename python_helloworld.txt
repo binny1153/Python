@@ -1,0 +1,5 @@
+import print
+
+print("Hello World")
+
+Hello World
